@@ -3,10 +3,8 @@ import java.util.LinkedList;
 import java.util.Stack;
 
 /**
- * Date 04/16/2015
- * @author tusroy
- *
- * Video link - https://youtu.be/vjt5Y6-1KsQ
+ * 
+ anusm14
  *
  * Given a root of binary tree, print in spiral order. 
  * e.g               1 
